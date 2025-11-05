@@ -8,21 +8,20 @@ while operations < 4:
     operations += 1
     operation = input("OP =  ")
 
-    if operation == " + ": # sign for addition
+    if operation == " +Addition ": 
         sum = number1 + number2
         print(sum)
 
-    elif operation == " - ": # sign for subtraction
+    elif operation == " Subtraction ": 
         subtraction = number1 - number2
         print(subtraction)
 
-    elif operation == " * ": # sign for Multiplications
+    elif operation == " MUltiplication ":
         product = number1 * number2
         print(product)
 
-    elif operation == " / ": # sign for division
-        division = number1 / number2
-        print(division)
+    elif operation == " /Division
         
     else:
+
         print("Please enter the numerical value or a selected operation in the calculator.")
