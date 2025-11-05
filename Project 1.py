@@ -20,8 +20,9 @@ while operations < 4:
         product = number1 * number2
         print(product)
 
-    elif operation == " /Division
+    elif operation == " Division "
         
     else:
 
         print("Please enter the numerical value or a selected operation in the calculator.")
+
